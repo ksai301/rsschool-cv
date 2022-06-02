@@ -1,3 +1,4 @@
+<image src="rs.png" alt="Текст с описанием картинки">
 # Egor Volkov
 
 ## Contacts:
